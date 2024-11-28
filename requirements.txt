@@ -1,0 +1,4 @@
+ultralytics
+torchvision
+numpy
+opencv-contrib-python
