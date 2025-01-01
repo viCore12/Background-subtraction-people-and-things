@@ -27,6 +27,6 @@ Stream
 ```
 
 # Demo
-Red is persons and Blue is things
+Red is people and Blue is things
 ![image](https://github.com/user-attachments/assets/f4402d72-da77-4aec-9ea8-42152eee2f89)
 
